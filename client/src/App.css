@@ -45,6 +45,7 @@ li{
 
 .card-products:hover img{
 	transform:scale(1.5);
+	transition: all .5s ease;
 }
 
 .wrap-cont:hover{
