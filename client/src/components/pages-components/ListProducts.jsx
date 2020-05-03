@@ -7,7 +7,6 @@ import Rating from '@material-ui/lab/Rating';
 import StarBorderIcon from '@material-ui/icons/StarBorder';
 import {Link} from "react-router-dom";
 import LazyImage from './Wigets/LazyLoadImg';
-import {PopularImg} from './../Objects/Data.js';
 import {costRepl, textEllipsis, setCookie, getCookie} from './Wigets/SecondaryFunc.js';
 
 const useStyles  = makeStyles({
@@ -36,7 +35,7 @@ const useStyles  = makeStyles({
 
 export default function ListProducts({products=[], title="", descr="", btn=false, match}){
 	const classes = useStyles();
-	const arrProd = PopularImg.filter((item,index)=>index<=7);
+	
 
 	const addToCart = (id, title, cost, img, type)=>{
 		let arr = [];
