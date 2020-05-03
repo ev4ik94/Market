@@ -3,8 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import {Grid, Typography, Button} from '@material-ui/core';
 import {Link} from "react-router-dom";
 
-import {PopularImg} from './../Objects/Data.js';
-
 
 const useStyles = makeStyles((theme) => ({
   root: {
