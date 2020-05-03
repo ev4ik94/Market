@@ -25,14 +25,13 @@ export default function Cart({match}){
 	
 
 	useEffect(()=>{
-		if(products===null&&type==='cart'){
-			getProducts(getCookie('cart')?getCookie('cart'):[]);
-		}else if(products===null&&type==='favorite'){
-			getProducts(getCookie('favorite')?getCookie('favorite'):[]);
+		if(products===null){
+			getProducts(getCookie(type)?getCookie(type):[]);
 		}
 
 		if(type!==match.params.slug){
 			setType(match.params.slug);
+			getProducts(getCookie(match.params.slug)?getCookie(match.params.slug):[]);
 		}
 	})
 
