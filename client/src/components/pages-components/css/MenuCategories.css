@@ -1,0 +1,21 @@
+.icons-menu-tools{
+	border-right:none!important;
+}
+
+.categories-list li{
+	font-size: 1.2rem;
+}
+
+.categories-list li:hover{
+	transition: all .5s ease;
+	color:#3d98d4!important;
+}
+
+.icons-menu-tools svg{
+	fill: #373435;
+	transition: all .5s ease;
+}
+
+.icons-menu-tools:hover svg{
+	fill: #3d98d4;
+}

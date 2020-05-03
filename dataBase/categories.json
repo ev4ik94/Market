@@ -1,0 +1,554 @@
+[
+	{
+		"catId":1,
+		"slug": "electronics",
+		"title": "Электроника",
+		"depth": 1,
+		"lft": 2,
+		"rgt":47,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":4,
+		"slug": "laptops",
+		"title": "Ноутбуки и Компьютеры",
+		"depth": 2,
+		"lft": 3,
+		"rgt":14,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":8,
+		"slug": "all-laptops",
+		"title": "Все Ноутбуки",
+		"depth": 3,
+		"lft": 4,
+		"rgt":5,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":9,
+		"slug": "accessories",
+		"title": "Аксессуары",
+		"depth": 3,
+		"lft": 6,
+		"rgt":7,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":10,
+		"slug": "mono-blocks",
+		"title": "Моноблоки",
+		"depth": 3,
+		"lft": 8,
+		"rgt":9,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":11,
+		"slug": "flash-drives",
+		"title": "Флэш накопители",
+		"depth": 3,
+		"lft": 10,
+		"rgt":11,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":12,
+		"slug": "printers",
+		"title": "Принтеры",
+		"depth": 3,
+		"lft": 12,
+		"rgt":13,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":5,
+		"slug": "tv-audio",
+		"title": "Телевизоры и Аудио",
+		"depth": 2,
+		"lft": 15,
+		"rgt":24,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":6,
+		"slug": "smartfons-gadjets",
+		"title": "Смартфоны и Гаджеты",
+		"depth": 2,
+		"lft": 25,
+		"rgt":34,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":7,
+		"slug": "other-electronics",
+		"title": "Прочая электроника",
+		"depth": 2,
+		"lft": 35,
+		"rgt":46,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":13,
+		"slug": "all-tv",
+		"title": "Все телевизоры",
+		"depth": 3,
+		"lft": 16,
+		"rgt":17,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":14,
+		"slug": "audio",
+		"title": "Аудио",
+		"depth": 3,
+		"lft": 18,
+		"rgt":19,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":15,
+		"slug": "ultra-hd-tv",
+		"title": "Ультра HD (4K) Телевизоры",
+		"depth": 3,
+		"lft": 20,
+		"rgt":21,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":16,
+		"slug": "full-hd-tv",
+		"title": "Full HD Телевизоры",
+		"depth": 3,
+		"lft": 22,
+		"rgt":23,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":17,
+		"slug": "all-smartfons",
+		"title": "Все Смартфоны",
+		"depth": 3,
+		"lft": 26,
+		"rgt":27,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":18,
+		"slug": "tablets",
+		"title": "Планшеты",
+		"depth": 3,
+		"lft": 28,
+		"rgt":29,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":19,
+		"slug": "smart-watch",
+		"title": "Смарт-часы",
+		"depth": 3,
+		"lft": 30,
+		"rgt":31,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":20,
+		"slug": "apple",
+		"title": "Apple",
+		"depth": 3,
+		"lft": 32,
+		"rgt":33,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":21,
+		"slug": "house-phone",
+		"title": "Телефоны для Дома",
+		"depth": 3,
+		"lft": 36,
+		"rgt":37,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":22,
+		"slug": "camera",
+		"title": "Фотоаппарты",
+		"depth": 3,
+		"lft": 38,
+		"rgt":39,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":23,
+		"slug": "video-camera",
+		"title": "Видеокамеры",
+		"depth": 3,
+		"lft": 40,
+		"rgt":41,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":24,
+		"slug": "game-consol",
+		"title": "Игровые Консоли и Аксессуары",
+		"depth": 3,
+		"lft": 42,
+		"rgt":43,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":25,
+		"slug": "musical-instruments",
+		"title": "Музыкальные Инструменты",
+		"depth": 3,
+		"lft": 44,
+		"rgt":45,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":2,
+		"slug": "appliances",
+		"title": "Бытовая техника",
+		"depth": 1,
+		"lft": 48,
+		"rgt":91,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":26,
+		"slug": "beauty-health",
+		"title": "Красота и Здоровье",
+		"depth": 2,
+		"lft": 49,
+		"rgt":60,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":32,
+		"slug": "clothes-care",
+		"title": "Уход за одеждой",
+		"depth": 2,
+		"lft": 61,
+		"rgt":70,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":37,
+		"slug": "climat-tech",
+		"title": "Климатическая техника",
+		"depth": 2,
+		"lft": 71,
+		"rgt":80,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":42,
+		"slug": "small-appliances",
+		"title": "Мелкая Бытовая техника",
+		"depth": 2,
+		"lft": 81,
+		"rgt":90,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":27,
+		"slug": "brush-teeth",
+		"title": "Зубные щетки",
+		"depth": 3,
+		"lft": 50,
+		"rgt":51,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":28,
+		"slug": "manikur-tech",
+		"title": "Приборы для Маникюра и Педикюра",
+		"depth": 3,
+		"lft": 52,
+		"rgt":53,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":29,
+		"slug": "hair-dryer",
+		"title": "Фены",
+		"depth": 3,
+		"lft": 54,
+		"rgt":55,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":30,
+		"slug": "epilator",
+		"title": "Эпиляторы",
+		"depth": 3,
+		"lft": 56,
+		"rgt":57,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":33,
+		"slug": "clipper",
+		"title": "Машинки для Стрижки",
+		"depth": 3,
+		"lft": 58,
+		"rgt":59,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":34,
+		"slug": "gladilnaya-doska",
+		"title": "Гладильные доски",
+		"depth": 3,
+		"lft": 62,
+		"rgt":63,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":35,
+		"slug": "parovoy-utyug",
+		"title": "Паровые Утюги",
+		"depth": 3,
+		"lft": 64,
+		"rgt":65,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":36,
+		"slug": "otparivatel",
+		"title": "Отпариватель",
+		"depth": 3,
+		"lft": 66,
+		"rgt":67,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":37,
+		"slug": "parovaya-systema",
+		"title": "Паровые Системы",
+		"depth": 3,
+		"lft": 68,
+		"rgt":69,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":38,
+		"slug": "ventilator",
+		"title": "Вентиляторы",
+		"depth": 3,
+		"lft": 72,
+		"rgt":73,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":39,
+		"slug": "air-conditioning",
+		"title": "Кондиционеры",
+		"depth": 3,
+		"lft": 74,
+		"rgt":75,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":40,
+		"slug": "obogrevatel",
+		"title": "Обогреватели",
+		"depth": 3,
+		"lft": 76,
+		"rgt":77,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":41,
+		"slug": "uvlajnitel-air",
+		"title": "Увлажнители Воздуха",
+		"depth": 3,
+		"lft": 78,
+		"rgt":79,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":43,
+		"slug": "myasorubka",
+		"title": "Мясорубки",
+		"depth": 3,
+		"lft": 82,
+		"rgt":83,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":44,
+		"slug": "sokovijimalka",
+		"title": "Соковыжималка",
+		"depth": 3,
+		"lft": 84,
+		"rgt":85,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":45,
+		"slug": "kettle",
+		"title": "Чайник",
+		"depth": 3,
+		"lft": 86,
+		"rgt":87,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":46,
+		"slug": "grill",
+		"title": "Грили, Сушки",
+		"depth": 3,
+		"lft": 88,
+		"rgt":89,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	},
+	{
+		"catId":3,
+		"slug": "about-us",
+		"title": "О Компании",
+		"depth": 1,
+		"lft": 92,
+		"rgt":93,
+		"images": {
+			"large": "",
+			"small": ""
+		}
+	}
+]

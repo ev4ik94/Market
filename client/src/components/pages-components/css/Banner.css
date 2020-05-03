@@ -1,0 +1,13 @@
+.slider li div{
+	height: 100%;
+}
+
+.carousel .thumbs{
+	display: none;
+}
+
+
+.carousel.carousel-slider{
+	max-height:450px!important;
+	min-height:450px!important;
+}
